@@ -1,0 +1,12 @@
+Trabalho: Exercício sobre Algoritmos Genético
+
+Encontrar de x para o qual a função f(x) = x*x - 3x + 4, encontre o valor máximo .
+-Assumir que x [-10, +10]
+-Codificar X como vetor binário
+-Criar uma população inicial com 4  indivíduos  (pode usar mais para testar até 30) 
+-Aplicar Mutação com taxa de 1%
+-Aplicar Crossover com taxa de 70%
+-Usar seleção por torneio.
+-Usar 5  gerações. ( pode usar mais para testar até 20) 
+Obs. Na implmentação utilizar os parametros ( num. de  indivíduos, num de geração, 
+taxas de crossover e mutação)  como variáveis para ajdar no teste pra avaliar a qualidade dos resultados.
